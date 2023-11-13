@@ -10,7 +10,7 @@
 		<dc:Subject n="2">Manoscritto vol. 3559, ins. 4, Descrizione del Ghetto.</dc:Subject>
 		<dc:Description>Manoscritto. Vengono citati gli autori ed inizia la descrizione della Fabbrica del Ghetto.</dc:Description>
 		<dc:Publisher>Scrittoio delle Regie Possessioni</dc:Publisher>
-		<dc:Coverage xsi:type="dcterms:TGN" ref="http://vocab.getty.edu/page/tgn/1000080">Italia</dc:Coverage>
+		<dc:Coverage xsi:type="dcterms:TGN" href="http://vocab.getty.edu/page/tgn/1000080">Italia</dc:Coverage>
 		<dc:Date xsi:type="dcterms:W3CDTF">1743-01-20</dc:Date>
 		<dc:Type>Manoscritto</dc:Type>
 		<dc:Format>Inchiostro nero su carta</dc:Format>
